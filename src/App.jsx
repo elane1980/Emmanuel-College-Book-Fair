@@ -159,7 +159,7 @@ export default function App() {
 
   const addStationeryItem = () => {
     const price = parseFloat(stationeryPrice);
-    if (price < 0.4 || price > 3) return;
+    if (price < 0.4 || price > 4) return;
     const item = {
       isbn: Date.now().toString(),
       title: "Stationery Item",
