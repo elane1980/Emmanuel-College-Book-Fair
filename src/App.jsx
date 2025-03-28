@@ -101,7 +101,6 @@ const initialBooks = [
   { isbn: "9780702304941", title: "Win Lose Kill Die", price: 8.99 },
   { isbn: "9789999751780", title: "Wings of Fire Pack x 3", price: 8.99 },
   { isbn: "9780702329760", title: "Your Time Is Up", price: 8.99 }
-  { isbn: "HANDPOINTERS", title: "Hand Pointers", price: 3.99 }
 ];
 
 
