@@ -235,7 +235,7 @@ export default function App() {
       <button onClick={addCustomBook}>Add Custom</button>
 
       <h3>Add Stationery Item</h3>
-      <input placeholder="£0.40 - £3.00" type="number" value={stationeryPrice} onChange={e => setStationeryPrice(e.target.value)} />
+      <input placeholder="£0.40 - £4.00" type="number" value={stationeryPrice} onChange={e => setStationeryPrice(e.target.value)} />
       <button onClick={addStationeryItem}>Add Stationery</button>
 
       <h2>Cart</h2>
